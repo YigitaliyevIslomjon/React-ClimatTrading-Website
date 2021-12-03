@@ -1,0 +1,22 @@
+.see_catolog_btn{
+    padding:0.72vw 1.3vw;
+    background:#CF0028;
+    color:white;
+    text-decoration:none;
+    transition: .4s;
+    text-transform:uppercase;
+    font-size: var(--textsize24);
+    font-weight: 600;
+
+}
+.see_catolog_btn:hover{
+    box-shadow:-2px 2px 5px grey;
+}
+@media only screen and (max-width:500px){
+    .see_catolog_btn{
+        margin-top:2vw;
+        padding:3.88vw 4.8vw;
+        font-size: var(--mtextsize20);
+
+    }
+}

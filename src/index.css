@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+
+
+*{
+    box-sizing: border-box;
+    padding:0;
+    margin:0;
+    font-family:"Open Sans";
+}
+body{
+    width:100%;
+    height:100%;
+}
+:root{
+    --textsize13:0.67vw;
+    --textsize14:0.72vw;
+    --textsize16:0.83vw;
+    --textsize18:0.93vw;
+    --textsize20:1.04vw;
+    --textsize24:1.25vw;
+    --textsize30:1.56vw;
+    /* mobile */
+    --mtextsize11:3vw;
+    --mtextsize12:3.3vw;
+    --mtextsize13:3.61vw;
+    --mtextsize14:3.87vw;
+    --mtextsize16:4.44vw;
+    --mtextsize18:5vw;
+    --mtextsize20:5.5vw;
+    --mtextsize24:6.66vw;
+    --mtextsize30:8.33vw;
+
+}

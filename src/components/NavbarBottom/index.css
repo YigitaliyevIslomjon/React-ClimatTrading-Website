@@ -1,0 +1,14 @@
+.navbar_buttom{
+    margin:3.85vw 0 1.3vw 0;
+    font-size: var(--textsize18);
+    font-weight: 600;
+    color:rgb(54, 54, 54);
+    
+
+}
+@media only screen and (max-width:500px){
+    .navbar_buttom{
+        font-size: var(--mtextsize11);
+    }
+
+}
