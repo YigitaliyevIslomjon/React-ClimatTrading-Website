@@ -273,7 +273,7 @@ const Imgtitle = styled.div`
     display:flex;
     flex-direction:column;
     align-items:center;
-    row-gap:5.5vw;
+    row-gap:2vw;
     img{
         width:4.48vw;
         height:4.48vw;
